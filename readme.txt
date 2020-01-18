@@ -1,1 +1,3 @@
-i am newbranch-dev txt or mq
+<<<<<<< HEAD
+i am newbranch-dev txt and mq
+
